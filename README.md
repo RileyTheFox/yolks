@@ -46,12 +46,22 @@ is tagged correctly.
 * [`sinusbot`](/bot/sinusbot)
   * `ghcr.io/parkervcp/yolks:bot_sinusbot`
 
+### [Box64](/box64)
+
+* [`Box64`](/box64)
+  * `ghcr.io/parkervcp/yolks:box64`
+
 ### [Cassandra](/cassandra)
 
 * [`cassandra_java8_python27`](/cassandra/cassandra_java8_python2)
   * `ghcr.io/parkervcp/yolks:cassandra_java11_python2`
 * [`cassandra_java11_python3`](/cassandra/cassandra_java11_python3)
   * `ghcr.io/parkervcp/yolks:cassandra_java11_python3`
+
+### [Dart](/dart)
+
+* [`dart2.17`](/dart/2.17)
+  * `ghcr.io/parkervcp/yolks:dart_2.17`
 
 ### [dotNet](/dotnet)
 
@@ -81,11 +91,14 @@ is tagged correctly.
   * `ghcr.io/parkervcp/games:arma3`
 * [`dayz`](/games/dayz)
   * `ghcr.io/parkervcp/games:dayz`
+* [`mohaa`](games/mohaa)
+  * `ghcr.io/pterodactyl/games:mohaa`  
 * [`samp`](/games/samp)
   * `ghcr.io/parkervcp/games:samp`  
 * [`source`](/games/source)
   * `ghcr.io/parkervcp/games:source`
-
+* [`valheim`](/games/valheim)
+  * `ghcr.io/parkervcp/games:valheim`
 
 ### [Golang](/go)
 
@@ -95,25 +108,28 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:go_1.15`
 * [`go1.16`](/go/1.16)
   * `ghcr.io/parkervcp/yolks:go_1.16`
+* [`go1.17`](/go/1.17)
+  * `ghcr.io/parkervcp/yolks:go_1.17`
+* [`go1.18`](/go/1.18)
+  * `ghcr.io/parkervcp/yolks:go_1.18`
+* [`go1.19`](/go/1.19)
+  * `ghcr.io/parkervcp/yolks:go_1.19`
 
 ### [Java](/java)
 
-* [`java7`](/java/7)
-  * `ghcr.io/parkervcp/yolks:java_7`
 * [`java8`](/java/8)
   * `ghcr.io/parkervcp/yolks:java_8`
-* [`java9`](/java/9)
-  * `ghcr.io/parkervcp/yolks:java_9`
 * [`java11`](/java/11)
   * `ghcr.io/parkervcp/yolks:java_11`
-* [`java14`](/java/14)
-  * `ghcr.io/parkervcp/yolks:java_14`
 * [`java16`](/java/16)
   * `ghcr.io/parkervcp/yolks:java_16`
 * [`java17`](/java/17)
   * `ghcr.io/parkervcp/yolks:java_17`
+* [`java19`](/java/19)
+  * `ghcr.io/parkervcp/yolks:java_19`
 
 ### [MariaDB](/mariadb)
+
   * [`MariaDB 10.3`](/mariadb/10.3)
     * `ghcr.io/parkervcp/yolks:mariadb_10.3`
   * [`MariaDB 10.4`](/mariadb/10.4)
@@ -126,12 +142,16 @@ is tagged correctly.
     * `ghcr.io/parkervcp/yolks:mariadb_10.7`
 
 ### [MongoDB](/mongodb)
+
   * [`MongoDB 4`](/mongodb/4)
     * `ghcr.io/parkervcp/yolks:mongodb_4`
   * [`MongoDB 5`](/mongodb/5)
     * `ghcr.io/parkervcp/yolks:mongodb_5`
+ * [`MongoDB 6`](/mongodb/6)
+    * `ghcr.io/parkervcp/yolks:mongodb_6`    
 
 ### [Mono](/mono)
+
 * [`mono_latest`](/mono/latest)
   * `ghcr.io/parkervcp/yolks:mono_latest`
 
@@ -149,6 +169,7 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:nodejs_18`
 
 ### [PostgreSQL](/postgres)
+
   * [`Postgres 9`](/postgres/9)
     * `ghcr.io/parkervcp/yolks:postgres_9`
   * [`Postgres 10`](/postgres/10)
@@ -172,12 +193,17 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:python_3.9`
 * [`python3.10`](/python/3.10)
   * `ghcr.io/parkervcp/yolks:python_3.10`
+* [`python3.11`](/python/3.11)
+  * `ghcr.io/parkervcp/yolks:python_3.11`
 
 ### [Redis](/redis)
+
   * [`Redis 5`](/redis/5)
     * `ghcr.io/parkervcp/yolks:redis_5`
   * [`Redis 6`](/redis/6)
     * `ghcr.io/parkervcp/yolks:redis_6`
+  * [`Redis 7`](/redis/7)
+    * `ghcr.io/parkervcp/yolks:redis_7`
 
 ### [Rust](/rust)
 
@@ -191,14 +217,16 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:rust_latest`
 
 ### [Voice](/voice)
-
-* [`TeaSpeak`](/teaspeak)
+* [`Mumble`](/voice/mumble)
+  * `ghcr.io/parkervcp/yolks:voice_mumble`
+* [`TeaSpeak`](/voice/teaspeak)
   * `ghcr.io/parkervcp/yolks:voice_teaspeak`
 
 ### [Wine](/wine)
 
 * [`Wine`](/wine)
   * `ghcr.io/parkervcp/yolks:wine_latest`
+  * `ghcr.io/parkervcp/yolks:wine_staging`
 
 ### [Installation Images](/installers)
 
@@ -206,3 +234,5 @@ is tagged correctly.
   * `ghcr.io/parkervcp/installers:alpine`
 * [`debian-install`](/installers/debian)
   * `ghcr.io/parkervcp/installers:debian`
+* [`ubuntu-install`](/installers/ubuntu)
+  * `ghcr.io/parkervcp/installers:ubuntu`
